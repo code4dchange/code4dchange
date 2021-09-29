@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I'm Amit 👋
+   ####  Just a normal "technology enthusiast" 👨‍💻
+#### •👨‍🎓 Intro :
+  Hey, I am a  final year student from Mater Of Computer Application
 
-<!--
-**code4dchange/code4dchange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### •👨‍💻 Experience :
+##### I have experience of working with
+◼ Data Structures and Algorithms (C++) 
 
-Here are some ideas to get you started:
+◼ Web Development - PHP 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+◼ Linux / Windows (OS)
+
+•🎯 Connect for collaboration...🤝
+
+#### •📫 How to reach me 
+amitr2433@gmail.com
+
+#### Connect with me:
+www.linkedin.com/in/amit-kumar-173bb5131
